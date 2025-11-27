@@ -1,6 +1,5 @@
-Online and Predictive Coordinated Cloud-Edge Scrubbing for DDoS Mitigation
 
-This repository contains the implementation of the paper "Online and Predictive Coordinated Cloud-Edge Scrubbing for DDoS Mitigation."
+This repository contains the implementation of the COMP6704 Individual Assignment.
 
 Prerequisites
 MATLAB R2022a or later
